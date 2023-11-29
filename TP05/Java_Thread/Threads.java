@@ -1,3 +1,6 @@
+//Cb3000419 Roberto Rodrigues da Silva Junior
+//Cb1640879 Vinicius Lopes Nunes
+
 public class Threads extends Thread {
 
     private static TP05 a = new TP05("TP05", 400, 500, 10, 10);
